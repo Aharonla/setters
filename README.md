@@ -18,3 +18,7 @@ If both conditions are met, reassign this._numOfSensors to num.
 4: Use the numOfSensors setter method on robot to assign _numOfSensors to 100.
 
 5: To check that the setter method worked, console.log() robot.numOfSensors.
+
+
+the lesson was completed successfully. 
+the use of of setter methods was briefly practiced.
