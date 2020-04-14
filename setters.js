@@ -10,6 +10,8 @@ const robot = {
     }
   },
   set numOfSensors(num){
-    
+    if (typeof num === 'number' && num >= 0) {
+      this._numOfSensors = num;
+    }
   }
 };
