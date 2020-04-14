@@ -19,3 +19,5 @@ const robot = {
 };
 
 robot.numOfSensors = 100;
+
+console.log(robot.numOfSensors);
