@@ -9,5 +9,7 @@ const robot = {
       return 'Sensors are currently down.'
     }
   },
-  
+  set numOfSensors(num){
+    
+  }
 };
