@@ -17,3 +17,5 @@ const robot = {
     }
   }
 };
+
+robot.numOfSensors = 100;
